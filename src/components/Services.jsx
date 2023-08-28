@@ -352,7 +352,7 @@ const Services = () => {
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
               Website Development
             </h3>
-            <p className="xxl:text-[18px] w-[95%] lg:w-[80%]">
+            <p className="lg:text-[18px] w-[95%] lg:w-[80%]">
               Transform your vision into a captivating website with our web
               development service starting from just{" "}
               <span className="multiverse-text font-bold text-[18px] lg:text-[24px]">
