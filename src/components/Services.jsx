@@ -37,13 +37,13 @@ const Services = () => {
       id="ourservices"
       className="pt-[56px] lg:pt-[62px] overflow-x-hidden px-4 md:px-12 lg:px-24 pb-[65px] lg:pb-[10px] font-nunito"
     >
-      <h2 className="multiverse-text text-center font-bold text-[28px] lg:text-[43px] ">
+      <h2 className="multiverse-text text-center font-bold text-[24px] lg:text-[43px] ">
         Our Digital Marketing Services
         <div className="flex justify-center">
-          <div className="h-1 w-60 bg-blue-600 my-2 rounded-[70%]"></div>
+          <div className="h-1 w-48 bg-blue-600 my-2 rounded-[70%]"></div>
         </div>
       </h2>
-      <div className="pt-10 mx-3 lg:mx-0 relative">
+      <div className="pt-10  relative">
         <img
           src={absImage}
           alt=""
@@ -105,7 +105,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-      <div className="pt-10 my-10 lg:my-20  mx-3 lg:mx-0 relative">
+      <div className="pt-10 my-10 lg:my-20 relative">
         <img
           src={absImage}
           alt=""
@@ -117,7 +117,7 @@ const Services = () => {
             alt=""
             className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
-          <div className=" relative left-2 top-4 ">
+          <div className=" relative left-5 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
               Social Media
             </h3>
@@ -139,7 +139,7 @@ const Services = () => {
               <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 mb-2">
                 Comprehensive Campaign Planning
               </li>
-              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 mb-2">
+              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] w-[80%] ml-7 mb-2">
                 Content Strategy and Posting Calendar (30 posts/stories/reels
                 monthly)
               </li>
@@ -169,7 +169,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-      <div className="pt-10  mx-3 lg:mx-0 relative">
+      <div className="pt-10   relative">
         <img
           src={absImage}
           alt=""
@@ -201,13 +201,13 @@ const Services = () => {
                   competition.
                 </span>
               </li>
-              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 my-2 font-bold">
+              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 w-[80%] my-2 font-bold">
                 Product Preparation:{" "}
                 <span className="font-normal">
                   Organize informations, images, and descriptions consistently.
                 </span>
               </li>
-              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 mb-2 font-bold">
+              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 w-[80%] mb-2 font-bold">
                 Account Setup:{" "}
                 <span className="font-normal">
                   Create accounts, complete profiles, payment, and shipping
@@ -334,7 +334,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-      <div className="pt-10 my-10  mx-3 lg:mx-0 lg:my-20 relative">
+      <div className="pt-10 my-10   lg:my-20 relative">
         {" "}
         {/* This is left to update */}
         <img
@@ -348,7 +348,7 @@ const Services = () => {
             alt=""
             className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
-          <div className=" relative left-2 top-4 ">
+          <div className=" relative left-5 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
               Website Development
             </h3>
@@ -457,7 +457,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-      <div className="pt-10  mx-3 lg:mx-0 relative">
+      <div className="pt-10   relative">
         <img
           src={absImage}
           alt=""
@@ -490,13 +490,13 @@ const Services = () => {
                   strategy, tracking.
                 </span>
               </li>
-              <li className="list-disc xxl:text-[18px] ml-7 my-2 font-bold">
+              <li className="list-disc xxl:text-[18px] ml-7 w-[80%] my-2 font-bold">
                 Digital Assets Creation:{" "}
                 <span className="font-normal">
                   GDN Ad Creative (1 set, 3 sizes/month)
                 </span>
               </li>
-              <li className="list-disc xxl:text-[18px] ml-7 mb-2 font-bold">
+              <li className="list-disc xxl:text-[18px] ml-7 w-[80%] mb-2 font-bold">
                 User Journey Planning:{" "}
                 <span className="font-normal">
                   Optimize landing pages, tracking, analytics reporting.
@@ -553,7 +553,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-      <div className="pt-10 my-10 lg:my-20  mx-3 lg:mx-0 relative">
+      <div className="pt-10 my-10 lg:my-20 relative">
         <img
           src={absImage}
           alt=""
@@ -565,7 +565,7 @@ const Services = () => {
             alt=""
             className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
-          <div className=" relative left-2 top-4 ">
+          <div className=" relative left-5 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
               SEO
             </h3>
@@ -587,7 +587,7 @@ const Services = () => {
               <li className="list-disc xxl:text-[18px] ml-9 my-2 font-normal">
                 Google Search Console Installation
               </li>
-              <li className="list-disc xxl:text-[18px] ml-9 mb-2 font-normal">
+              <li className="list-disc xxl:text-[18px] ml-9 mb-2 w-[80%] font-normal">
                 Robots.txt and XML Sitemap Optimization
               </li>
               {showItem6 && (

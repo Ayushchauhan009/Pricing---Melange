@@ -142,7 +142,7 @@ const Testimonials = () => {
             </div>
           ))}
         </div>
-        <div className="pagination flex justify-center items-center my-8">
+        <div className="pagination flex justify-center items-center my-4 lg:my-8">
           {Array.from({ length: totalPages }, (_, index) => (
             <button
               key={index + 1}

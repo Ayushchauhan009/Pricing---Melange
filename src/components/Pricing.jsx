@@ -4,14 +4,14 @@ const Pricing = () => {
   return (
     <div id="pricingplan" className="font-nunito mt-12 mb-24">
       <div className="mb-10">
-        <h2 className="text-center multiverse-text pb-2  font-bold text-3xl  mb-2 md:text-4xl lg:text-[43px]">
+        <h2 className="text-center multiverse-text   font-bold text-[28px]   md:text-4xl lg:text-[43px]">
           Choose Our Pricing Plans
         </h2>
         <div className="flex justify-center">
           <div className="h-1 w-60 bg-blue-600 my-2 rounded-[70%]"></div>
         </div>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 lg:gap-x-8 xxl:gap-x-24 2xl:gap-x-36 mx-6 gap-y-6 lg:gap-y-0 lg:mx-28">
+      <div className="grid grid-cols-1 -mt-4 lg:mt-0 lg:grid-cols-3 lg:gap-x-8 xxl:gap-x-24 2xl:gap-x-36 mx-6 gap-y-6 lg:gap-y-0 lg:mx-28">
         <div className="bg-white p-6 rounded shadow-lg">
           <h3 className="font-bold text-[20px] lg:text-[21px] xxl:text-[24px]">
             Business Starter Package

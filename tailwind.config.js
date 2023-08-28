@@ -19,6 +19,7 @@ export default {
         xxs: "300px",
         xss: "390px",
         xs: "400px",
+        xxll: "1368px",
         xxl: "1400px",
         xl1: "1460px",
         xl2: "1500px",
