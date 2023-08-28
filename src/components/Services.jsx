@@ -63,7 +63,7 @@ const Services = () => {
               Transform your brand's trajectory with our 'Brand Strategy'
               monthly service starting from{" "}
               <span className="multiverse-text font-bold text-[18px] lg:text-[20px] xxl:text-[24px]">
-                3339 SGD
+                $1999
               </span>{" "}
               onwards:
             </p>
@@ -124,8 +124,8 @@ const Services = () => {
             <p className="lg:text-[18px] 2xl:text-[22px] w-[95%] lg:w-[80%]">
               Elevate your brand's reach and engagement through our impactful
               'Social Media' service at a competitive price starting from{" "}
-              <span className="multiverse-text font-bold text-[18px] lg:text-[24px]">
-                2030 SGD
+              <span className="multiverse-text font-bold lg:text-[20px] xxl:text-[24px]">
+                $1999
               </span>{" "}
               onwards:
             </p>
@@ -189,7 +189,7 @@ const Services = () => {
               Unlock the potential of your Ecommerce venture with our
               comprehensive service pricing starting from{" "}
               <span className="multiverse-text font-bold text-[18px] lg:text-[20px] xxl:text-[24px]">
-                3339 SGD
+                $1999
               </span>{" "}
               onwards:
             </p>
@@ -355,8 +355,8 @@ const Services = () => {
             <p className="lg:text-[18px] w-[95%] lg:w-[80%]">
               Transform your vision into a captivating website with our web
               development service starting from just{" "}
-              <span className="multiverse-text font-bold text-[18px] lg:text-[24px]">
-                3339 SGD
+              <span className="multiverse-text font-bold lg:text-[20px] xxl:text-[24px]">
+                $1999
               </span>{" "}
               onwards:
             </p>
@@ -478,7 +478,7 @@ const Services = () => {
               and data-driven optimization with our Performance Marketing
               service, starting at{" "}
               <span className="multiverse-text font-bold text-[18px] lg:text-[20px] xxl:text-[24px]">
-                2030 SGD
+                $1499
               </span>{" "}
               onwards:
             </p>
@@ -571,8 +571,8 @@ const Services = () => {
             </h3>
             <p className=" text-[18px] w-[95%] lg:w-[80%]">
               Boost Your Online Presence with SEO Services starting from{" "}
-              <span className="multiverse-text font-bold text-[18px] lg:text-[24px]">
-                3339 SGD
+              <span className="multiverse-text font-bold lg:text-[20px] xxl:text-[24px]">
+                $1499
               </span>{" "}
               onwards, encompassing on-page, technical, and off-page
               optimization for enhanced visibility.

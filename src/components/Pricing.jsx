@@ -16,7 +16,7 @@ const Pricing = () => {
           <h3 className="font-bold text-[20px] lg:text-[21px] xxl:text-[24px]">
             Business Starter Package
           </h3>
-          <p className="multiverse-text font-semibold text-[35px]">2555 SGD</p>
+          <p className="multiverse-text font-semibold text-[35px]">$1999</p>
           <div className="h-0.5 w-full bg-blue-600 mb-6 "></div>
           <p className="font-semibold text-[20px]">Social Media Management</p>
           <li className="list-disc ml-2 mb-5">30 posts/month (2 platforms)</li>
@@ -37,7 +37,7 @@ const Pricing = () => {
           <h3 className="font-bold text-[20px] lg:text-[21px] xxl:text-[24px]">
             Business Intermediate Package
           </h3>
-          <p className="multiverse-text font-semibold text-[35px]">4555 SGD</p>
+          <p className="multiverse-text font-semibold text-[35px]">$2999</p>
           <div className="h-0.5 w-full bg-blue-600 mb-6 "></div>
           <p className="font-semibold text-[20px]">Social Media Management</p>
           <li className="list-disc ml-2 mb-5">60 posts/month (3 platforms)</li>
@@ -63,7 +63,7 @@ const Pricing = () => {
           <h3 className="font-bold text-[20px] lg:text-[21px] xxl:text-[24px]">
             Business Advanced Package
           </h3>
-          <p className="multiverse-text font-semibold text-[35px]">5555 SGD</p>
+          <p className="multiverse-text font-semibold text-[35px]">$3999</p>
           <div className="h-0.5 w-full bg-blue-600 mb-6 "></div>
           <p className="font-semibold text-[20px]">Social Media Management</p>
           <li className="list-disc ml-2 mb-5">100 posts/month (4 platforms)</li>
