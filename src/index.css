@@ -12,13 +12,14 @@ html{
 
 .headerBg{
   background-image: url("./assets/images/banner.jpg");
-  background-size: contain;
+  background-size: cover;
 }
 
 
 @media (max-width: 768px){
   .headerBg{
     background-image: url("./assets/images/banner2.jpg");
+    background-size: cover;
   }
 }
 
