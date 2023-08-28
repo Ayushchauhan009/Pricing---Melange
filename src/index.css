@@ -11,16 +11,14 @@ html{
 
 
 .headerBg{
-  background-image: url("./assets/images/headerbg.png");
+  background-image: url("./assets/images/banner.jpg");
   background-size: contain;
 }
 
 
 @media (max-width: 768px){
   .headerBg{
-    background-color: #101940;
-    background-size: cover;
-    background-image: none;
+    background-image: url("./assets/images/banner2.jpg");
   }
 }
 
