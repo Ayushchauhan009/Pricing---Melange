@@ -35,7 +35,7 @@ const Services = () => {
   return (
     <div
       id="ourservices"
-      className="pt-[56px] lg:pt-[62px] overflow-x-hidden px-4 md:px-12 lg:px-24 pb-[50px] lg:pb-[10px] font-nunito"
+      className="pt-[36px] lg:pt-[62px] overflow-x-hidden px-4 md:px-12 lg:px-24 pb-[50px] lg:pb-[10px] font-nunito"
     >
       <h2 className="multiverse-text text-center font-bold text-[24px] lg:text-[43px] ">
         Our Digital Marketing Services

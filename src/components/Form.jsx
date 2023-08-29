@@ -167,7 +167,7 @@ const Form = () => {
           isMulti
           value={selectedCategories}
           onChange={handleCategoryChange}
-          placeholder="Select"
+          placeholder="Choose Solutions*"
           styles={colourStyles}
           className="  px-0 py-2 w-[100%] text-[18px] bg-white rounded-sm placeholder-black outline-none"
         />
