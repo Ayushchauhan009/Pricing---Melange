@@ -53,7 +53,7 @@ const Services = () => {
           <img
             src={bS}
             alt=""
-            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto left-5 lg:left-9"
+            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] object-cover lg:max-h-96 lg:w-auto left-5 lg:left-9"
           />
           <div className=" relative left-5 lg:left-20 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
@@ -115,7 +115,7 @@ const Services = () => {
           <img
             src={cm}
             alt=""
-            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
+            className="z-10 relative top-4 lg:top-6 w-[90%] object-cover h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
           <div className=" relative left-5 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
@@ -179,7 +179,7 @@ const Services = () => {
           <img
             src={ecm}
             alt=""
-            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto left-5 lg:left-9"
+            className="z-10 relative top-4 lg:top-6 w-[90%] object-cover h-[90%] lg:max-h-96 lg:w-auto left-5 lg:left-9"
           />
           <div className=" relative left-5 lg:left-20 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
@@ -346,7 +346,7 @@ const Services = () => {
           <img
             src={wds}
             alt=""
-            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
+            className="z-10 relative top-4 lg:top-6 w-[90%] object-cover h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
           <div className=" relative left-5 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
@@ -467,7 +467,7 @@ const Services = () => {
           <img
             src={pm}
             alt=""
-            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto left-5 lg:left-9"
+            className="z-10 relative top-4 lg:top-6 w-[90%] object-cover h-[100%] lg:max-h-96 lg:w-auto left-5 lg:left-9"
           />
           <div className=" relative left-5 lg:left-20 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
@@ -563,7 +563,7 @@ const Services = () => {
           <img
             src={wds}
             alt=""
-            className="z-10 relative top-4 lg:top-6 w-[90%] h-[90%] lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
+            className="z-10 relative top-4 lg:top-6 w-[90%] h-[100%] object-cover lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
           <div className=" relative left-5 top-4 ">
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
