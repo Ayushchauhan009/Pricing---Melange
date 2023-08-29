@@ -187,7 +187,8 @@ const Services = () => {
             </h3>
             <p className="lg:text-[18px] 2xl:text-[22px] w-[90%] lg:w-[80%]">
               Unlock the potential of your Ecommerce venture with our
-              comprehensive service pricing starting from{" "}
+              comprehensive 'E-commerce Management' service pricing starting
+              from{" "}
               <span className="multiverse-text font-bold text-[18px] lg:text-[20px] xxl:text-[24px]">
                 $1999
               </span>{" "}
@@ -353,8 +354,8 @@ const Services = () => {
               Website Development
             </h3>
             <p className="lg:text-[18px] w-[95%] lg:w-[80%]">
-              Transform your vision into a captivating website with our web
-              development service starting from just{" "}
+              Transform your vision into a captivating website with our 'Web
+              Development' service starting from{" "}
               <span className="multiverse-text font-bold lg:text-[20px] xxl:text-[24px]">
                 $1999
               </span>{" "}
@@ -473,10 +474,10 @@ const Services = () => {
             <h3 className="multiverse-text font-semibold mt-4 mb-2 lg:mt-0 lg:mb-0 text-[24px] lg:text-[40px]">
               Performance Marketing
             </h3>
-            <p className="lg:text-[18px] w-[90%] lg:w-[80%]">
+            <p className="lg:text-[18px] 2xl:text-[22px] w-[90%] lg:w-[80%]">
               Elevate your reach through strategic campaigns, creative finesse,
-              and data-driven optimization with our Performance Marketing
-              service, starting at{" "}
+              and data-driven optimization with our 'Performance Marketing'
+              service, starting from{" "}
               <span className="multiverse-text font-bold text-[18px] lg:text-[20px] xxl:text-[24px]">
                 $1499
               </span>{" "}
@@ -570,7 +571,7 @@ const Services = () => {
               SEO
             </h3>
             <p className=" text-[18px] w-[95%] lg:w-[80%]">
-              Boost Your Online Presence with SEO Services starting from{" "}
+              Boost Your Online Presence with 'SEO' services starting from{" "}
               <span className="multiverse-text font-bold lg:text-[20px] xxl:text-[24px]">
                 $1499
               </span>{" "}

@@ -12,11 +12,14 @@ const Header = () => {
           <span className="hidden lg:inline-block">|</span> Customised{" "}
           <span className="font-normal">(Tailored & Cost-effective)</span>
         </p>
-        <p className="text-[16px] lg:hidden  flex flex-col text-white lg:text-[20px] mx-5 lg:mx-0 text-center font-nunito">
-          Transparent <span className="font-normal">(No Hidden Charges)</span>{" "}
-          <span className="hidden lg:inline-block">|</span> Flexible{" "}
-          <span className="font-normal">(No Fixed Contracts)</span>{" "}
-          <span className="hidden lg:inline-block">|</span> Customised{" "}
+        <p className="text-[16px] lg:hidden  flex  text-white lg:text-[20px] mx-5 lg:mx-0 text-center font-nunito">
+          Transparent <span className="font-normal ">(No Hidden Charges)</span>{" "}
+        </p>
+        <p className="text-[16px] my-2 lg:hidden  flex  text-white lg:text-[20px] mx-5 lg:mx-0 text-center font-nunito">
+          Flexible <span className="font-normal"> (No Fixed Contracts)</span>{" "}
+        </p>
+        <p className="text-[16px] lg:hidden  flex  text-white lg:text-[20px] mx-5 lg:mx-0 text-center font-nunito">
+          Customised{" "}
           <span className="font-normal">(Tailored & Cost-effective)</span>
         </p>
       </h1>

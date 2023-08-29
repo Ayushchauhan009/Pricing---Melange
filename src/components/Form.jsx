@@ -106,8 +106,8 @@ const Form = () => {
 
   return (
     <div className="pl-2 pr-2 lg:py-7 lg:shadow-2xl">
-      <h2 className="font-nunito font-bold text-center my-0 text-[36px] multiverse-text">
-        Get In Touch with Us
+      <h2 className="font-nunito font-bold text-center my-0 text-[28px] lg:text-[36px] multiverse-text">
+        Get In Touch With Us
       </h2>
       <div className="flex justify-center">
         <div className="h-1 w-60 bg-blue-600 mt-2 mb-4 rounded-[70%]"></div>
