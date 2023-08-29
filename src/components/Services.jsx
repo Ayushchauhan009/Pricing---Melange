@@ -68,7 +68,7 @@ const Services = () => {
               onwards:
             </p>
             <ul>
-              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 mt-2 w-[90%] font-bold">
+              <li className="list-disc xxl:text-[18px] 2xl:text-[22px] ml-7 mt-2 w-[80%] font-bold">
                 In-depth Research & Analysis:{" "}
                 <span className="font-normal">
                   Brand, Product, Target Audience, Industry, Competitors
