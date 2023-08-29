@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { absImage, bS, cm, ecm, ds, pm, wds } from "../assets/images";
+import { absImage, bS, cm, ecm, ds, pm, wds, seo } from "../assets/images";
 
 const Services = () => {
   const [showItem1, setShowItem1] = useState(false);
@@ -561,7 +561,7 @@ const Services = () => {
         />
         <div className="flex flex-col lg:flex-row-reverse">
           <img
-            src={wds}
+            src={seo}
             alt=""
             className="z-10 relative top-4 lg:top-6 w-[90%] h-[100%] object-cover lg:max-h-96 lg:w-auto  right-[-15px] lg:right-12"
           />
