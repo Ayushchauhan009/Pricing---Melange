@@ -11,7 +11,7 @@ import clients from "./client.png";
 import campaigns from "./camps.png";
 import reach from "./reach.png";
 import media from "./media.png";
-import seo from "./seo.svg";
+import seo from "./seo.png";
 import dhruvaklogo2 from "./dhruvaklogo2.png";
 import kalonlogo from "./kalonlogo.png";
 import comma from "./comma.png";
