@@ -4,7 +4,7 @@ const Pricing = () => {
   return (
     <div id="pricingplan" className="font-nunito mt-12 mb-24">
       <div className="mb-10">
-        <h2 className="text-center multiverse-text   font-bold text-[28px]   md:text-4xl lg:text-[43px]">
+        <h2 className="text-center multiverse-text   font-bold text-[28px] pb-1  md:text-4xl lg:text-[43px]">
           Choose Our Pricing Plans
         </h2>
         <div className="flex justify-center">
