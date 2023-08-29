@@ -5,7 +5,7 @@ import bS from "./bs.svg";
 import cm from "./cm.svg";
 import ecm from "./ecm.svg";
 import ds from "./ds.png";
-import pm from "./pm.png";
+import pm from "./pm.svg";
 import wds from "./wds.svg";
 import clients from "./client.png";
 import campaigns from "./camps.png";
